@@ -1,0 +1,5 @@
+source_up
+export SLACK_WH_PATH="/services/<your webhook path (some cryptic stuff)>"
+
+export WIFI_SSID="your wifi SSID"
+export WIFI_PW="your wifi password"
