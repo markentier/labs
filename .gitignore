@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# platform.io
+.pio
+.pioenvs
+.piolibdeps
+
+# direnv
+.envrc
