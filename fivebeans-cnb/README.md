@@ -1,9 +1,10 @@
 # fivebeans Coffee Notification Button
 
-<center>
+<div style="text-align: center;">
 
 ![CNB v2 prototype (GIF)](./images/cnb-v2-prototype.gif)
-</center>
+
+</div>
 
 An ESP8285 (or ESP8266) which sends a Slack message into a channel once a big button is pressed.
 
