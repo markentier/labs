@@ -20,13 +20,13 @@ _More details will follow soon._
 * Early prototype (Jan 2018)
   * 🎥 https://www.instagram.com/p/BefYRcdHyhK/
   * 📸 https://www.instagram.com/p/Begb8exn_ND/
-* Next version on a breadboard
+* Next version on a breadboard (Feb 2019)
   * 🎥 https://www.instagram.com/p/Btrnet4omIN/
   * 📸 https://www.instagram.com/p/BtrqztWIw97/
-* First self-designed PCB prototype
+* First self-designed PCB prototype (Feb 2019)
   * 📸 https://www.instagram.com/p/Bt_dyOYBbQA/
-  * 📸 https://www.instagram.com/p/BuC8_eaBRkF/
-* Second self-designed PCB prototype
+  * 🎥/📸 https://www.instagram.com/p/BuC8_eaBRkF/
+* Second self-designed PCB prototype (March 2019)
   * _coming soon_
 
 ## Frameworks
