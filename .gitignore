@@ -38,3 +38,6 @@
 
 # direnv
 .envrc
+
+# other stuff
+.DS_Store
