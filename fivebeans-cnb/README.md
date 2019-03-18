@@ -14,8 +14,11 @@ _More details will follow soon._
 
 ## Images and short videos
 
-![PCB rendering for v2.1 rev1](./images/cnb-render-v2.1-rev00001.png)
-<small>`PCB rendering for v2.1 rev1`</small>
+![PCB 3D rendering for v2.1 rev00002](./images/rev00002-3d.png)
+<small>`PCB 3D rendering for v2.1 rev1`</small>
+
+![PCB schematic rendering for v2.1 rev00002](./images/rev00002-pcb.png)
+<small>`PCB schematic rendering for v2.1 rev1`</small>
 
 * Early prototype (Jan 2018)
   * 🎥 https://www.instagram.com/p/BefYRcdHyhK/
@@ -26,7 +29,10 @@ _More details will follow soon._
 * First self-designed PCB prototype (Feb 2019)
   * 📸 https://www.instagram.com/p/Bt_dyOYBbQA/
   * 🎥/📸 https://www.instagram.com/p/BuC8_eaBRkF/
-* Second self-designed PCB prototype (March 2019)
+* v2.1 rev00001 (March 2019)
+  * 📸 https://www.instagram.com/p/BvDQuSpnnQZ/
+  * 📸 https://www.instagram.com/p/BvFaA8wnASO/
+* v2.1 rev00002 (March 2019)
   * _coming soon_
 
 ## Frameworks

@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conn_WS2812B
+D WS2812B 3 pin connector (Vcc, DIN, GND)
+K connector ws2812b
+F ~
+$ENDCMP
+#
+$CMP Pololu_D24V5F5
+D Pololu D24V5F5
+K powermanagement voltage regulator
+F ~
+$ENDCMP
+#
+$CMP WS2812B
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+$ENDCMP
+#
+#End Doc Library
