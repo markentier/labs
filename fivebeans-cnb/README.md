@@ -10,7 +10,17 @@ Show status of progress with a 24 pixel WS2812B LED ring (also known as Neopixel
 
 After job is done, the ESP will be turned off (so it needs an LDO with ENABLE/SHUTDOWN pin).
 
-_More details will follow soon._
+It's basically an overcomplicated "dash button" with fancy lights in a button and housed in a very huge case.
+Funnily enough I shrunk the PCB way more than needed for the case, but I liked this challenge and wanted to get familiar with SMD soldering anyway.
+
+## Future ideas
+
+* use an SMD version of the ESP8266 (like ESP-12F)
+* use an ESP-32 and utilize the 2 cores (main task doing all the communication + secondary task keeping the lights running concurrently)
+* use an SMD ATtiny## with the ESP82## for concurrently driving the LEDs?
+* _Do you have an interesting idea? Open an issue and tell me!_
+
+The SMD ESPs would make the board bigger again, because I need to mount them somehow to the PCB, but that's okay probably. Certainly I don't want to use th bare chips and deal with antenna magic, I leave [this journey](https://www.youtube.com/watch?v=am68wkDK9UE) to the [Unexpected Maker](https://github.com/unexpectedmaker).
 
 ## Images and short videos
 
@@ -35,9 +45,21 @@ _More details will follow soon._
 * v2.1 rev00002 (March 2019)
   * _coming soon_
 
+## Components
+
+| Component  | Amount  | Notes  |
+|---|---|---|
+| PCB  | 1  | see kicad project  |
+| ESP8285  | 1  | an ESP8266 should still work  |
+| WS2812B 24 pixel ring  | 1  | RGB LEDs; so called Neopixel ring  |
+| 18650 cell  | 2  | 2000mAh or better  |
+| battery holder (for 2 cells)  | 1  | with a DC Jack connector  |
+| wires (Dupont)  | 5  | for button and LED ring  |
+| (components for PCB)  | many  | _tbd (check kicad schematic)_ |
+
 ## Frameworks
 
-Per default the Arduino framework is used and code should be usable in their IDE.
+Per default the [ESP8266 Arduino framework](https://github.com/esp8266/Arduino) is used and code should be usable in their IDE.
 
 There are other frameworks usable with ESP8266/ESP8285, but haven't done any testing yet.
 Especially for JSON support one should look for a generic C/C++ library suitable for embedded devices.
