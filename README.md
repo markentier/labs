@@ -3,6 +3,7 @@
 **Collection of electronics/maker projects.**
 
 * [fivebeans Coffee Notification Button](./fivebeans-cnb/README.md)
+
   <img width="320" height="320" src="./fivebeans-cnb/images/cnb-v2-prototype.gif">
 
 ## Notes
