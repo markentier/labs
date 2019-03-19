@@ -27,7 +27,7 @@ The hardware/electronics designs are published in accordance with the [statement
 
 _If you believe I violate anyone's rights or wrongly relicense their work, please contact me (open an issue) and let's find a suitable solution for all involved parties._
 
-I use the MIT license out of habit and since it's short and unrestricted (the ISC or 0BSD might be suitable candidates as well). The CC license is used, because it seems to be widely adopted in the Open Source Hardware community, so I want to the open in that direction, too. Since I find it too cumbersome to individually declare, both source code and any other media (schematics, layouts, ...) fall under the same dual licensing, even though Creative Commons is usually not used for source code. As you might find it unsuitable (and CC itself recommends not doing it anyway), consider using the source code under the MIT license instead. No, no third option will be introduced anytime soon.
+I use the MIT license out of habit and since it's short and unrestricted (the ISC or 0BSD might be suitable candidates as well). The CC license is used, because it seems to be widely adopted in the Open Source Hardware community, so I want to be open in that direction, too. Since I find it too cumbersome to individually declare, both source code and any other media (schematics, layouts, ...) fall under the same dual licensing, even though Creative Commons is usually not used for source code. As you might find it unsuitable (and CC itself recommends not doing it anyway), consider using the source code under the MIT license instead. No, no third option will be introduced anytime soon.
 
 ### OSHW Statement of Principles 1.0
 
